@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Lebanese Forces News]]></title>
         <description><![CDATA[Lebanese Forces News]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lebaneseforces/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 11:29:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 11:33:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lebaneseforces/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[صندوق النقد: احتمالات تعافي لبنان محدودة في ظل استمرار الأزمة السورية]]></title>
+            <description><![CDATA[<article><h1>صندوق النقد: احتمالات تعافي لبنان محدودة في ظل استمرار الأزمة السورية</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db96648bd9d055400c589a67a11d6ebdb8cacd08.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lebaneseforces/f1acdbf3-b950-43a8-82da-bdceac6273ad/index.html</link>
+            <guid isPermaLink="false">f1acdbf3-b950-43a8-82da-bdceac6273ad</guid>
+            <pubDate>Wed, 16 Mar 2016 11:33:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[فضيحة شبكات الإنترنت غير الشرعية تُعرّض الأمنَ القومي للمخاطر]]></title>
             <description><![CDATA[<article><h1>فضيحة شبكات الإنترنت غير الشرعية تُعرّض الأمنَ القومي للمخاطر</h1><p> تفاعلَت فضيحة شبكات الإنترنت غير الشرعية في لبنان، وكشفَت أوساط متابعة لـ”الجمهورية” أنّه “تبيّنَ في المحطات التي اكتُشِفت، وجودُ لواقط وتجهيزات ضخمة جداً موضوعة على أعمدة ومنصّات وأبراج مرتفعة، وفي أماكن نائية لا ينفذ إليها البشر”، وتحدّثت عن وجود استغراب لدى وزارة الاتصالات “في شأن طريقة وصولها إلى هذه الأمكنة من دون أن تكون منقولة على البغال أو الدواب، إذ لا يمكن الوصول إليها بطريقة أخرى”.</p></article>]]></description>
-            <link>undefined226f5502-fcb7-4655-ad03-6d60cf5b6e24/index.html</link>
+            <link>https://thegrid.ai/lebaneseforces/226f5502-fcb7-4655-ad03-6d60cf5b6e24/index.html</link>
             <guid isPermaLink="false">226f5502-fcb7-4655-ad03-6d60cf5b6e24</guid>
             <pubDate>Wed, 16 Mar 2016 11:29:02 GMT</pubDate>
         </item>
