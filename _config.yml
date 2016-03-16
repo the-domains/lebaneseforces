@@ -1,4 +1,4 @@
-name: LebaneseForces
+name: Lebanese Forces
 favicon: null
 layout_spectrum: 0.8190126761328429
 typography_spectrum: 0.6175170596688986
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.8933830559253693
-  lightness: 0.6595045840367675
-  saturation: 0.032987643731758
-  rhythmicContrast: 0.7070475083310157
+    - '#ffffff'
+    - '#007639'
+    - '#ed1b24'
+    - '#ffaaaa'
+    - '#58a278'
+  brandStrength: 1
+  lightness: 0.625
+  saturation: 0.75
+  rhythmicContrast: 1
 purpose: []
