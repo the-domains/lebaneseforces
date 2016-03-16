@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lebanese Forces News]]></title>
+        <description><![CDATA[Lebanese Forces News]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Mar 2016 11:29:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[فضيحة شبكات الإنترنت غير الشرعية تُعرّض الأمنَ القومي للمخاطر]]></title>
+            <description><![CDATA[<article><h1>فضيحة شبكات الإنترنت غير الشرعية تُعرّض الأمنَ القومي للمخاطر</h1><p> تفاعلَت فضيحة شبكات الإنترنت غير الشرعية في لبنان، وكشفَت أوساط متابعة لـ”الجمهورية” أنّه “تبيّنَ في المحطات التي اكتُشِفت، وجودُ لواقط وتجهيزات ضخمة جداً موضوعة على أعمدة ومنصّات وأبراج مرتفعة، وفي أماكن نائية لا ينفذ إليها البشر”، وتحدّثت عن وجود استغراب لدى وزارة الاتصالات “في شأن طريقة وصولها إلى هذه الأمكنة من دون أن تكون منقولة على البغال أو الدواب، إذ لا يمكن الوصول إليها بطريقة أخرى”.</p></article>]]></description>
+            <link>undefined226f5502-fcb7-4655-ad03-6d60cf5b6e24/index.html</link>
+            <guid isPermaLink="false">226f5502-fcb7-4655-ad03-6d60cf5b6e24</guid>
+            <pubDate>Wed, 16 Mar 2016 11:29:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
